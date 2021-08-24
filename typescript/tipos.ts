@@ -42,6 +42,6 @@ function criar(objetos: object ){
     //....
 }
 criar({
-    propriedade: 1.
+    propriedade: 1;
 })
 // criar('Victória')// da erro
